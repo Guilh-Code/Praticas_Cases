@@ -7,6 +7,9 @@ df.head()
 df.describe()
 df.info()
 
+df.isnull().sum()
+
+
 # %%
 
 # Limpeza Básica: "Guilherme, percebi que o dado do Igor Santos veio com problema no salário. Dê um jeito nisso sem excluir o funcionário da análise." (Explique qual lógica você usou).
@@ -18,7 +21,22 @@ df.loc[df["Nome"] == "Igor Santos", "Salario"] = Media_Dep
 
 # Análise por Área: "Qual departamento tem a maior média salarial?"
 
-df.groupby("Departamento")["Salario"].mean().sort_values(ascending=False)
+Sal_Dep = df.groupby("Departamento")["Salario"].mean().sort_values(ascending=False)
+Sal_Dep = Sal_Dep.reset_index()
+Sal_Dep.rename(columns={
+    "Salario": "Media_Salarial"
+})
+
+import matplotlib.pyplot as plt
+
+plt.figure()
+Sal_Dep.plot(kind="bar", x="Departamento", y="Salario", legend=False)
+plt.title("Salário médio por departamento")
+plt.xlabel("Departamentos")
+plt.ylabel("Media Salarial")
+plt.xticks(rotation=0)
+plt.show()
+
 
 # %%
 
@@ -41,8 +59,6 @@ X["Departamento"] = X["Departamento"].replace({
 })
 
 model.fit(X, y)
-
-import matplotlib.pyplot as plt
 
 tree.plot_tree(model,
                feature_names=features,
