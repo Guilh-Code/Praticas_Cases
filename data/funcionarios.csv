@@ -1,0 +1,13 @@
+ID,Nome,Departamento,Salario,Tempo_Casa_Meses,Nota_Performance,Status
+1,Ana Silva,Comercial,3500,12,8.5,Ativo
+2,Beto Costa,Tecnologia,7800,24,9.0,Ativo
+3,Carla Dias,RH,4200,6,7.0,Ativo
+4,Daniel Souza,Tecnologia,7500,25,6.5,Desligado
+5,Elena Rocha,Comercial,3200,8,9.5,Desligado
+6,Fabio Lima,Tecnologia,6800,10,8.0,Ativo
+7,Gabi Nunes,Comercial,3600,14,7.5,Ativo
+8,Hugo Mota,RH,4100,30,8.0,Ativo
+9,Igor Santos,Tecnologia,NaN,60,9.5,Ativo
+10,Julia Pires,Comercial,3400,5,5.0,Desligado
+11,Karla Tech,Tecnologia,15000,72,9.8,Ativo
+12,Lucas Vendas,Comercial,3300,7,6.0,Ativo
