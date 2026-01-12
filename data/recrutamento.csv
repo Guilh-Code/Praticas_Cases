@@ -1,0 +1,6 @@
+ID_Candidato,Vaga,Data_Inscricao,Data_Entrevista,Data_Oferta,Status_Final
+1,Dev Python,2024-01-01,2024-01-05,2024-01-10,Contratado
+2,Analista RH,2024-01-02,2024-01-15,NaN,Reprovado
+3,Dev Python,2024-01-05,2024-01-25,2024-01-26,Contratado
+4,Dev Java,2024-01-06,NaN,NaN,Desistiu
+5,Data Sci,2024-01-07,2024-01-20,2024-02-15,Contratado
