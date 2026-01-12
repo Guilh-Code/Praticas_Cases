@@ -94,3 +94,8 @@ tree.plot_tree(model,
 
 
 # %%
+
+# Possivel demissão/desligamento com base ao grafico
+df[(df["Satisfacao_Trabalho"] <= 2.5) & (df["Num_Projetos"] <= 2.5)]
+
+# %%
