@@ -1,0 +1,16 @@
+ID_Func,Nome,Idade,Genero,Depto,Cargo,Salario_Mensal,Data_Admissao,Avaliacao_Ano_Anterior,Num_Projetos,Satisfacao_Trabalho,Horas_Extras,Status
+1001,Ana Clara,28,Feminino,Vendas,Executivo de Vendas,5200,2020-03-15,4,5,3,Sim,Ativo
+1002,Bruno Lima,35,M,Tecnologia,Dev Senior,NaN,2018-06-10,5,7,4,Nao,Ativo
+1003,Carla Souza,29,F,RH,Analista Jr,3800,2021-01-20,3,2,2,NaN,Ativo
+1004,Daniel Rocha,42,Male,Tecnologia,Gerente,12500,2015-11-05,4,8,5,Sim,Ativo
+1005,Eduardo M.,25,M,Vendas,Vendedor Jr,3000,2022-05-15,2,3,1,Sim,Desligado
+1006,Fernanda T.,31,Fem,Tecnologia,Dev Pleno,7000,2019-08-12,4,5,3,Nao,Ativo
+1007,Gabriel S.,27,M,Marketing,Analista,4500,2020-10-01,NaN,4,4,Nao,Ativo
+1008,Helena P.,33,F,Tecnologia,Tech Lead,10500,2017-02-20,5,6,5,Sim,Ativo
+1009,Igor K.,24,M,Vendas,Estagiario,1500,2023-01-10,3,1,5,Nao,Ativo
+1010,Julia R.,29,F,RH,Gerente RH,9000,2019-04-15,4,4,3,Nao,Ativo
+1011,Kleber D.,45,M,Tecnologia,Diretor,18000,2010-05-20,5,2,5,Nao,Ativo
+1012,Lucas F.,30,Masculino,Vendas,Executivo,5300,2019-11-11,2,5,1,Sim,Desligado
+1013,Maria J.,26,F,Marketing,Analista Jr,3900,2021-06-30,3,3,3,Nao,Ativo
+1014,Natan L.,28,M,Tecnologia,Dev Jr,4500,2021-03-12,4,4,2,Sim,Desligado
+1015,Olivia M.,34,F,Tecnologia,Dev Senior,8500,2018-01-15,4,6,4,Nao,Ativo
