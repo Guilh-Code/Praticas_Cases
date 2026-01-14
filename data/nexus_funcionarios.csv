@@ -1,0 +1,51 @@
+ID,Nome,Genero,Idade,Salario,Data_Admissao,Modelo_Trabalho
+1,Alessandro B.,Masculino,34,"R$ 8.500,00",2019-03-15,Hibrido
+2,Beatriz C.,F,28,"R$ 5.200,50",2021-06-10,Remoto
+3,Carlos D.,M,45,"R$ 15.000,00",2015-02-20,Presencial
+4,Daniela E.,Fem,32,"R$ 9.000,00",2018-11-05,Hibrido
+5,Eduardo F.,Male,25,"3500",2023-01-10,Presencial
+6,Fernanda G.,Feminino,29,"R$ 7.800,00",2020-08-14,Remoto
+7,Gabriel H.,M,38,"12000",2017-05-30,Hibrido
+8,Helena I.,F,41,"R$ 18.500,00",2014-09-12,Remoto
+9,Igor J.,M,24,"3.200,00",2023-05-01,Presencial
+10,Julia K.,Fem,27,"R$ 6.000",2021-02-28,Hibrido
+11,Kleber L.,Masculino,50,"R$ 22.000,00",2010-06-15,Presencial
+12,Larissa M.,F,30,"R$ 8.200,00",2019-12-01,Remoto
+13,Marcos N.,M,33,"9500",2018-07-20,Hibrido
+14,Natalia O.,F,26,"R$ 4.800,00",2022-03-10,Presencial
+15,Otavio P.,Male,29,"R$ 7.500,50",2020-01-15,Remoto
+16,Paula Q.,F,35,"R$ 11.000,00",2016-11-25,Hibrido
+17,Renan R.,M,23,"2800",2023-08-05,Presencial
+18,Sabrina S.,F,31,"R$ 9.200,00",2019-05-18,Remoto
+19,Thiago T.,M,28,"R$ 6.500,00",2021-09-09,Hibrido
+20,Ursula U.,F,39,"R$ 14.500,00",2015-04-04,Remoto
+21,Vinicius V.,M,36,"R$ 10.000,00",2017-10-30,Presencial
+22,Wagner W.,M,42,"R$ 16.000,00",2013-02-14,Hibrido
+23,Xuxa X.,F,25,"R$ 4.000,00",2022-11-20,Remoto
+24,Yago Y.,M,27,"5800",2021-04-15,Presencial
+25,Zaira Z.,F,34,"R$ 8.900,00",2018-08-08,Hibrido
+26,Andre A.,M,30,"R$ 7.000,00",2020-05-05,Remoto
+27,Bianca B.,Fem,26,"R$ 5.500,00",2022-01-10,Presencial
+28,Caio C.,M,40,"R$ 13.000,00",2014-12-12,Hibrido
+29,Diana D.,F,33,"R$ 10.500,00",2017-06-06,Remoto
+30,Elio E.,Masculino,29,"R$ 7.200,00",2019-09-09,Presencial
+31,Fabia F.,F,37,"11500",2016-03-03,Hibrido
+32,Gustavo G.,M,24,"3000",2023-02-02,Presencial
+33,Hilda H.,F,44,"R$ 19.000,00",2012-07-07,Remoto
+34,Ivo I.,M,31,"R$ 8.000,00",2018-10-10,Hibrido
+35,Joana J.,F,28,"R$ 6.200,00",2021-08-08,Remoto
+36,Kevin K.,M,25,"4500",2022-06-06,Presencial
+37,Livia L.,F,32,"R$ 9.800,00",2019-04-04,Hibrido
+38,Mario M.,M,39,"R$ 12.500,00",2015-09-09,Remoto
+39,Nair N.,F,27,"R$ 5.900,00",2021-12-12,Presencial
+40,Oscar O.,M,35,"R$ 10.200,00",2017-01-01,Hibrido
+41,Patricia P.,F,29,"R$ 7.400,00",2020-02-20,Remoto
+42,Queiroz Q.,M,48,"R$ 21.000,00",2011-11-11,Presencial
+43,Roberta R.,F,26,"R$ 5.000,00",2022-05-05,Hibrido
+44,Silvio S.,M,30,"R$ 8.400,00",2018-03-03,Remoto
+45,Tania T.,F,34,"R$ 9.500,00",2019-07-07,Presencial
+46,Ugo U.,M,22,"2500",2023-10-10,Hibrido
+47,Vera V.,F,40,"R$ 14.000,00",2014-08-08,Remoto
+48,William W.,M,36,"R$ 11.200,00",2016-12-12,Presencial
+49,Xenia X.,F,28,"R$ 6.800,00",2021-05-05,Hibrido
+50,Yuri Y.,M,25,"4200",2022-09-09,Remoto
