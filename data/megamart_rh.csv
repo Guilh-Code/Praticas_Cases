@@ -1,0 +1,61 @@
+ID_Colaborador,Nome,Genero,Data_Nascimento,Data_Admissao,Salario_Base,Estado_Civil,Distancia_Trabalho_KM,Status
+1001,Adalberto Silva,M,1985-04-12,2010-05-20,"R$ 4.500,00",Casado,12,Ativo
+1002,Beatriz Souza,F,1992-06-15,2018-02-10,"R$ 3.200,50",Solteiro,45,Ativo
+1003,Carlos Eduardo,Masculino,1980-11-30,2005-01-15,"8500",Divorciado,5,Ativo
+1004,Daniela Lima,Fem,1995-02-28,2021-08-08,"R$ 2.800,00",Solteiro,60,Desligado
+1005,Eduardo Gomes,M,1990-09-09,2015-11-11,"R$ 5.600,00",Casado,10,Ativo
+1006,Fernanda Alves,Feminino,1998-12-12,2022-03-01,"2500",Solteiro,8,Desligado
+1007,Gabriel Martins,Male,1993-07-07,2019-06-30,"R$ 3.800,00",Casado,35,Ativo
+1008,Helena Costa,F,1988-03-25,2012-09-15,"R$ 7.200,00",Divorciado,15,Ativo
+1009,Igor Pereira,M,2001-01-01,2023-01-10,"1800",Solteiro,2,Ativo
+1010,Juliana Rocha,F,1994-05-05,2020-02-20,"R$ 3.500,50",Casado,55,Desligado
+1011,Kleber Dias,M,1982-08-18,2008-04-04,"R$ 9.000,00",Casado,20,Ativo
+1012,Larissa Mendes,Fem,1996-10-10,2021-01-15,"R$ 3.000,00",Solteiro,12,Ativo
+1013,Marcos Vinicius,M,1989-12-25,2014-07-01,"5200",Solteiro,25,Ativo
+1014,Natalia Oliveira,F,1991-04-20,2016-03-10,"R$ 4.800,00",Casado,30,Ativo
+1015,Otavio Santos,M,1999-09-09,2022-05-20,"2200",Solteiro,5,Desligado
+1016,Paula Queiroz,F,1987-02-14,2011-11-11,"R$ 6.500,00",Divorciado,40,Ativo
+1017,Renan Ribeiro,Masculino,1993-06-06,2018-08-18,"R$ 3.900,00",Casado,10,Ativo
+1018,Sabrina Torres,F,1997-01-30,2021-09-09,"2800",Solteiro,50,Desligado
+1019,Thiago Farias,M,1990-11-15,2013-05-05,"R$ 5.800,00",Casado,8,Ativo
+1020,Ursula Ubaldo,F,1985-08-08,2009-12-01,"R$ 8.200,00",Viúvo,12,Ativo
+1021,Vinicius Junior,M,2000-07-12,2023-02-15,"1900",Solteiro,3,Ativo
+1022,Wagner Lopes,M,1983-03-03,2007-10-20,"R$ 10.500,00",Casado,18,Ativo
+1023,Xuxa Meneghel,F,1963-03-27,2000-01-01,"R$ 25.000,00",Solteiro,5,Ativo
+1024,Yago Yanes,M,1995-05-25,2019-11-11,"4000",Solteiro,22,Ativo
+1025,Zaira Z.,F,1992-02-02,2017-06-06,"R$ 4.100,00",Casado,14,Ativo
+1026,Andre Araujo,M,1991-01-20,2015-05-15,"R$ 5.000,00",Solteiro,33,Ativo
+1027,Bianca B.,F,1996-12-12,2022-01-20,"3100",Solteiro,10,Desligado
+1028,Caio Castro,M,1988-09-08,2012-04-30,"R$ 7.000,00",Casado,40,Ativo
+1029,Diana Prince,Fem,1990-06-01,2016-08-08,"R$ 5.500,00",Solteiro,100,Ativo
+1030,Elio E.,M,1994-04-14,2020-03-10,"R$ 3.600,00",Casado,15,Desligado
+1031,Fabio Jr,M,1980-11-21,2006-09-09,"R$ 12.000,00",Divorciado,5,Ativo
+1032,Gisele B.,F,1985-07-20,2010-10-10,"R$ 9.500,00",Casado,50,Ativo
+1033,Hugo H.,M,1998-05-15,2022-07-01,"2400",Solteiro,6,Desligado
+1034,Ivete S.,F,1972-05-27,2002-02-02,"R$ 15.000,00",Casado,2,Ativo
+1035,Joao J.,M,1993-08-30,2018-05-20,"R$ 4.200,00",Solteiro,65,Ativo
+1036,Kelly Key,F,1983-03-03,2009-09-09,"R$ 8.000,00",Casado,15,Ativo
+1037,Leo L.,M,1996-01-10,2021-12-01,"3000",Solteiro,9,Desligado
+1038,Monica M.,F,1991-09-18,2017-02-15,"R$ 4.700,00",Casado,25,Ativo
+1039,Neymar Jr,M,1992-02-05,2014-06-01,"R$ 6.000,00",Solteiro,80,Ativo
+1040,Olivia O.,F,1999-10-10,2023-03-15,"2000",Solteiro,4,Ativo
+1041,Pedro P.,M,1987-12-12,2011-01-20,"R$ 6.800,00",Casado,30,Ativo
+1042,Quenia Q.,F,1995-05-05,2020-05-05,"R$ 3.400,00",Solteiro,12,Ativo
+1043,Ronaldo R.,M,1976-09-18,2003-03-03,"R$ 14.000,00",Divorciado,10,Ativo
+1044,Sandy S.,F,1983-01-28,2008-08-08,"R$ 9.200,00",Casado,20,Ativo
+1045,Tiririca T.,M,1965-05-01,1998-10-10,"R$ 18.000,00",Casado,5,Ativo
+1046,Umberto U.,M,1997-07-07,2021-11-11,"2900",Solteiro,45,Desligado
+1047,Vera Fischer,F,1951-11-27,1990-05-20,"R$ 28.000,00",Divorciado,8,Ativo
+1048,Wesley W.,M,1990-09-06,2013-12-12,"R$ 5.900,00",Casado,18,Ativo
+1049,Xuxa X.,F,1998-04-20,2022-09-09,"2300",Solteiro,60,Desligado
+1050,Yasmin Y.,F,1994-02-14,2019-03-30,"R$ 3.700,00",Solteiro,22,Ativo
+1051,Zeca Z.,M,1980-08-08,2005-05-05,"R$ 11.000,00",Casado,15,Ativo
+1052,Ana A.,F,1993-01-15,2016-09-10,"R$ 4.300,00",Casado,35,Ativo
+1053,Beto B.,M,1999-11-20,2023-01-20,"1800",Solteiro,5,Ativo
+1054,Carla C.,F,1989-06-30,2012-07-15,"R$ 7.500,00",Solteiro,10,Ativo
+1055,Duda D.,M,1995-08-18,2020-10-20,"R$ 3.200,00",Solteiro,55,Desligado
+1056,Eliana E.,F,1973-11-22,2001-04-01,"R$ 16.500,00",Casado,12,Ativo
+1057,Faustao F.,M,1950-05-02,1989-01-01,"R$ 30.000,00",Casado,3,Ativo
+1058,Gal G.,F,1982-02-20,2007-06-15,"R$ 9.800,00",Divorciado,25,Ativo
+1059,Hebe H.,F,1929-03-08,1980-01-01,"R$ 35.000,00",Viúvo,0,Ativo
+1060,Iza I.,F,1990-09-03,2018-02-28,"R$ 5.400,00",Solteiro,18,Ativo

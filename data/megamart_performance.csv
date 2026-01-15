@@ -1,0 +1,61 @@
+ID_Func,Departamento,Cargo,Ultima_Avaliacao,Vendas_Trimestre,Horas_Treinamento,Faltas_Ano,Promocao_2_Anos
+1001,Comercial,Vendedor Senior,8.5,120000,10,2,0
+1002,Vendas,Vendedor Pleno,7.0,85000,5,8,0
+1003,Logistica,Coordenador,9.0,,20,0,1
+1004,Vendas,Vendedor Jr,5.0,30000,2,15,0
+1005,Comercial,Vendedor Senior,9.2,150000,40,1,1
+1006,Vendas,Vendedor Jr,4.5,25000,0,12,0
+1007,Logística,Analista,8.0,,15,3,0
+1008,RH,Gerente,9.5,,50,1,1
+1009,Vendas,Estagiario,7.5,15000,5,2,0
+1010,Vendas,Vendedor Pleno,6.0,70000,8,20,0
+1011,TI,Dev Senior,9.8,,100,0,1
+1012,Vendas,Vendedor Jr,8.2,95000,30,1,1
+1013,Logistica,Analista,7.8,,10,4,0
+1014,RH,Analista,8.5,,25,2,0
+1015,Vendas,Estagiario,5.5,12000,0,5,0
+1016,Comercial,Gerente Regional,9.0,300000,60,1,1
+1017,Vendas,Vendedor Pleno,7.2,88000,12,3,0
+1018,Vendas,Vendedor Jr,4.0,20000,0,25,0
+1019,Comercial,Vendedor Pleno,8.8,110000,35,0,0
+1020,TI,Scrum Master,9.1,,40,1,1
+1021,Vendas,Estagiario,6.8,18000,5,2,0
+1022,TI,Tech Lead,9.6,,80,0,1
+1023,Diretoria,Diretor,10.0,,10,0,0
+1024,Vendas,Vendedor Pleno,7.5,90000,15,4,0
+1025,RH,Analista Jr,8.0,,20,2,0
+1026,Logistica,Motorista,7.0,,5,6,0
+1027,Vendas,Vendedor Jr,5.8,40000,5,10,0
+1028,Comercial,Vendedor Senior,9.3,180000,55,0,1
+1029,TI,Data Analyst,9.4,,90,0,1
+1030,Vendas,Vendedor Jr,5.2,35000,2,18,0
+1031,Comercial,Gerente,8.9,250000,45,2,1
+1032,RH,Coordenador,9.1,,30,1,1
+1033,Vendas,Estagiario,6.0,14000,0,4,0
+1034,Diretoria,VP,9.8,,5,0,0
+1035,Logistica,Motorista,8.0,,8,3,0
+1036,Comercial,Vendedor Senior,8.7,135000,20,1,0
+1037,Vendas,Vendedor Jr,4.8,28000,0,14,0
+1038,RH,Analista Pleno,8.3,,25,2,1
+1039,Comercial,Vendedor Pleno,7.9,95000,18,5,0
+1040,Vendas,Estagiario,7.0,16000,10,1,0
+1041,Logistica,Analista,8.1,,12,2,0
+1042,Vendas,Vendedor Jr,8.4,98000,35,0,1
+1043,Diretoria,Diretor Comercial,9.5,500000,20,1,0
+1044,RH,Gerente,9.2,,40,2,1
+1045,Logistica,Gerente,8.8,,30,1,1
+1046,Vendas,Vendedor Jr,5.0,32000,0,22,0
+1047,Diretoria,Presidente,10.0,,0,0,0
+1048,Comercial,Vendedor Pleno,8.0,105000,22,3,0
+1049,Vendas,Estagiario,4.5,10000,0,8,0
+1050,Vendas,Vendedor Jr,7.6,85000,25,1,1
+1051,TI,SysAdmin,8.5,,50,2,0
+1052,RH,Analista,8.2,,20,2,0
+1053,Vendas,Estagiario,6.5,17000,5,1,0
+1054,Comercial,Vendedor Senior,9.0,160000,40,0,1
+1055,Vendas,Vendedor Jr,5.1,29000,2,16,0
+1056,Diretoria,VP RH,9.7,,15,1,0
+1057,Diretoria,Conselheiro,10.0,,0,0,0
+1058,RH,Coordenador,9.0,,35,1,1
+1059,Diretoria,Fundadora,10.0,,0,0,0
+1060,Comercial,Vendedor Pleno,8.6,115000,30,2,0
