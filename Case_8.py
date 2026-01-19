@@ -151,8 +151,14 @@ plt.show()
 # Analise: Quem treina mais (Horas_Treinamento) tem maior eficiência? (Use gráfico ou correlação).
 
 filtro = df["Departamento"] == "Comercial"
+df_comercial = df[filtro]
 
-df[filtro]
+df_comercial["Eficiencia_Vendas"] = round(df_comercial["Vendas_Trimestre"] / df_comercial["Salario_Base"], 2)
+
+plt.scatter(df_comercial["Horas_Treinamento"], df_comercial["Eficiencia_Vendas"])
+plt.xlabel("Horas de Treinamento")
+plt.ylabel("Eficiencia em Vendas")
+plt.show()
 
 # %%
 
@@ -163,3 +169,20 @@ df[filtro]
 # Target: Status (Converta "Ativo" para 0 e "Desligado" para 1).
 
 # Use uma Árvore de Decisão para descobrir: Qual o perfil exato de quem pede demissão na MegaMart?
+
+from sklearn import tree
+
+model = tree.DecisionTreeClassifier()
+
+features = ["Idade", "Distancia_Trabalho_KM", "Salario_Base", "Faltas_Ano", "Horas_Treinamento"]
+target = "Status"
+
+X = df[features]
+y = df[target]
+
+model.fit(X, y)
+
+tree.plot_tree(model,
+               feature_names=features,
+               class_names=model.classes_,
+               filled=True)
