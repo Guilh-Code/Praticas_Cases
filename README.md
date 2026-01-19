@@ -71,6 +71,14 @@ Aqui você encontrará **7 Cases de Negócio** completos, indo desde a limpeza d
 * **Solução ML:**
     * Validou que o modelo **Remoto** tinha maior satisfação e performance.
     * Árvore de Decisão descobriu a regra exata do Burnout: `Horas Extras > 21` era o gatilho matemático para a insatisfação, independente do modelo de trabalho.
+ 
+### 8️⃣ Case: Conflito RH vs Vendas (MegaMart)
+**🏢 Contexto:** Disputa interna entre Diretores. Vendas alegava que "quem mora longe falta mais"; RH defendia que "falta treinamento".
+* **Desafio Técnico:** Limpeza "extrema" de dados (salários em formato BRL `R$ 1.500,00` convertidos para float, datas mistas), padronização de categorias e uso de **Boxplot** para análise estatística.
+* **Insight (Data Viz):** O Boxplot derrubou a hipótese da distância: não houve correlação entre km e faltas.
+* **Solução ML:** O `DecisionTreeClassifier` revelou a "regra oculta" de demissão da empresa:
+    * **Tolerância Zero:** Quem tem `Faltas > 9` é desligado automaticamente.
+    * **Fator Protetivo:** Para quem falta pouco, o **Treinamento** é crucial. Funcionários que treinam menos de 2.5h têm tolerância muito menor a faltas e rodam mais rápido.
 
 ---
 
